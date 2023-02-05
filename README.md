@@ -12,7 +12,7 @@ CV documents
 
 # Other projects 
 - Masters Practicum UCLA - Admin Intern KP Riverside
--   ConsultingReport_KPRiverside_ASQProject.pdf
+-     ConsultingReport_KPRiverside_ASQProject.pdf
 - Case Competition - Cleveland Clinic
 -   Finalist 2019 4th Place
 -     CC_TeamSynapse_CaseCompetition2019
