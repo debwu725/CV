@@ -25,3 +25,6 @@ CV documents
 -     PCC Training_14May2018_DW.pdf
 - Research on ImmiGrant HealTh and State policy (RIGHTS) Study
 -     APHA Abstract Submissions 2019.pdf
+
+#Miscellaneous
+- Nursing Recognitions
