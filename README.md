@@ -24,4 +24,4 @@ CV documents
 - Person-Centered Maternity Care in Kenya Training
 -     PCC Training_14May2018_DW.pdf
 - Research on ImmiGrant HealTh and State policy (RIGHTS) Study
--     Access to health care amid the immigrant policy context of California: The lived experience of Mexican and Chinese immigrants.pdf
+-     APHA Abstract Submissions 2019.pdf
