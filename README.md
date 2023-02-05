@@ -5,7 +5,7 @@ CV documents
 - Consideration of health literacy in implementation science
 -     Consideration of health literacy in implementation science.pdf
 - Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States
--     Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United 
+-     Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States.pdf
 - Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya    
 -     Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya.pdf
 -     
@@ -18,8 +18,10 @@ CV documents
 -     ConsultingReport_KPRiverside_ASQProject.pdf
 - Case Competition - Cleveland Clinic
 -   Finalist 2019 4th Place
--     CC_TeamSynapse_CaseCompetition2019
+-     CC_TeamSynapse_CaseCompetition2019.pdf
 -   Top 16 (Invitational) 2018
--     CC_TeamLifeline_CaseCompetition2018
+-     CC_TeamLifeline_CaseCompetition2018.pdf
 - Person-Centered Maternity Care in Kenya Training
--     PCC Training_14May2018_DW
+-     PCC Training_14May2018_DW.pdf
+- Research on ImmiGrant HealTh and State policy (RIGHTS) Study
+-     Access to health care amid the immigrant policy context of California: The lived experience of Mexican and Chinese immigrants.pdf
