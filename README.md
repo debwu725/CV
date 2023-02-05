@@ -15,6 +15,6 @@ CV documents
 -   ConsultingReport_KPRiverside_ASQProject.pdf
 - Case Competition - Cleveland Clinic
 -   Finalist 2019 4th Place
--     name of PDF
+-     CC_TeamSynapse_CaseCompetition2019
 -   Top 16 (Invitational) 2018
--     name of PDF
+-     CC_TeamLifeline_CaseCompetition2018
