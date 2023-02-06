@@ -29,5 +29,5 @@ CV documents
 
 # Miscellaneous
 - Nursing Recognitions
--     Thank you card_KLohrmann
--     Thank you card_ABloomberg
+-     Thank you card_KLohrmann.png
+-     Thank you card_ABloomberg.png
