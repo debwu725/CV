@@ -3,7 +3,7 @@ CV documents
 - 2023Curriculum Vitae_DW.pdf
 
 # Publications
-- Johns Hopkins - Consideration of health literacy in implementation science 
+- Johns Hopkins University - Consideration of health literacy in implementation science 
 -     Consideration of health literacy in implementation science.pdf
 - UCLA - Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States
 -     Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States.pdf
