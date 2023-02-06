@@ -1,5 +1,6 @@
 # CV
 CV documents
+- 2023Curriculum Vitae_DW.pdf
 
 # Publications
 - Consideration of health literacy in implementation science
@@ -9,9 +10,6 @@ CV documents
 - Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya    
 -     Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya.pdf
 -     
-- TITLE of project
--     related deliverables
--       name of PDF
 
 # Other projects 
 - Masters Practicum UCLA - Admin Intern KP Riverside
@@ -28,3 +26,5 @@ CV documents
 
 #Miscellaneous
 - Nursing Recognitions
+-     Thank you card_KLohrmann
+-     Thank you card_ABloomberg
