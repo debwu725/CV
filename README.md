@@ -3,13 +3,14 @@ CV documents
 - 2023Curriculum Vitae_DW.pdf
 
 # Publications
-- Consideration of health literacy in implementation science
+- Johns Hopkins - Consideration of health literacy in implementation science 
 -     Consideration of health literacy in implementation science.pdf
-- Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States
+- UCLA - Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States
 -     Cross-cultural researchers’ positionality in immigrant health research: reflections on conducting research on Chinese immigrants’ experiences in the United States.pdf
-- Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya    
+- UCLA - Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya    
 -     Providers and women’s perspectives on person-centered maternity care: a mixed methods study in Kenya.pdf
-
+- University of Maryland - Oral Health Literacy and Dental Care among Low-Income Pregnant Women
+-     Oral Health Literacy and Dental Care among Low-Income Pregnant Women.pdf
 
 # Other projects 
 - Masters Practicum UCLA - Admin Intern KP Riverside
