@@ -1,6 +1,7 @@
 # CV
 CV documents
 - 2023Curriculum Vitae_DW.pdf
+- DWu_Headshot_jhh.jpg
 
 # Publications
 Johns Hopkins University - Consideration of health literacy in implementation science 
