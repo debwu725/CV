@@ -17,9 +17,9 @@ CV documents
 -     ConsultingReport_KPRiverside_ASQProject.pdf
  
 - Case Competition - Cleveland Clinic
--   Finalist 2019 4th Place
+   Finalist 2019 4th Place
 -     CC_TeamSynapse_CaseCompetition2019.pdf
--   Top 16 (Invitational) 2018
+   Top 16 (Invitational) 2018
 -     CC_TeamLifeline_CaseCompetition2018.pdf
 
 - Person-Centered Maternity Care in Kenya Training
